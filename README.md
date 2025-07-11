@@ -23,9 +23,9 @@ We cover everything from setting up Selenium to building real-world automation p
 
 ## 🧑‍💻 Blog-to-Code Mapping
 
-| Blog Post | Title | Folder |
+| Blog Post | Title | Blog |
 |----------|-------|--------|
-| Blog 1 | What is Automation Testing & Why Selenium? | `01_intro_to_automation/` |
+| Blog 1 | What is Automation Testing & Why Selenium? | https://aigen023.blogspot.com/2025/07/blog-1-what-is-automation-testing-why.html |
 | Blog 2 | Setting Up Environment | `02_env_setup/` |
 | Blog 3 | Python Basics for Selenium | `03_python_basics/` |
 | Blog 4 | Mastering Element Locators | `04_element_locators/` |
