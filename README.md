@@ -57,7 +57,8 @@ pip install -r requirements.txt
 ```
 ---
 
-##▶️ Getting Started
+## ▶️ Getting Started
+
 - Clone this repo:
 
 ```git clone https://github.com/kuro-shiv/Automation_Selenium_Python.git```
