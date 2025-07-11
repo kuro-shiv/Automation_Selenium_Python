@@ -61,11 +61,13 @@ pip install -r requirements.txt
 - Clone this repo:
 
 ```git clone https://github.com/kuro-shiv/Automation_Selenium_Python.git```
+
 ```cd Automation_Selenium_Python```
 
 - Explore code in each folder as you follow the blog posts.
 
 - Run a sample script:
+  
 ```python 02_env_setup/open_google.py```
 
 ---
@@ -99,10 +101,14 @@ File uploads and downloads
 
 Navigation across pages and tabs
 
+---
+
 ## 📷 Screenshots & Logs
 Screenshots of test runs and logging mechanisms are included in respective folders.
 
 Learn how to debug failed tests using driver.save_screenshot() and the Python logging module.
+
+---
 
 ## 🏁 Final Project
 Check the 15_final_project/ folder to explore a real-world automation scenario:
@@ -110,6 +116,8 @@ Check the 15_final_project/ folder to explore a real-world automation scenario:
 Login → Navigate to Product → Select → Checkout → Download Report → Email Summary
 
 This project combines everything taught in the series into a complete use case.
+
+---
 
 ## 📘 Follow the Series
 Start from Blog 1 and go step-by-step:
