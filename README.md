@@ -74,33 +74,24 @@ pip install -r requirements.txt
 ---
 
 ## 🧪 Testing Practice Sites
+
 We’ll be using the following websites for practice, demo, and tutorials throughout the blog and this repository:
 
-🔹 The Internet (Heroku)
-
-🔹 CosmoCode Playground
-
-🔹 OrangeHRM Demo Login
-
-🔹 FormSite Practice Form
-
-🔹 SauceDemo Login Page
-
-🔹 My Blog - AIgen023
-
-🔹 Selenium Official Docs
+- 🔹 [The Internet (Heroku)](https://the-internet.herokuapp.com/)
+- 🔹 [CosmoCode Playground](https://cosmocode.io/)
+- 🔹 [OrangeHRM Demo Login](https://opensource-demo.orangehrmlive.com/web/index.php/auth/login)
+- 🔹 [FormSite Practice Form](https://fs2.formsite.com/meherpavan/form2/index.html?1537702596407)
+- 🔹 [SauceDemo Login Page](https://www.saucedemo.com/)
+- 🔹 [My Blog - AIgen023](https://aigen023.blogspot.com/)
+- 🔹 [Selenium Official Docs](https://www.selenium.dev/)
 
 These platforms help in learning real-time use cases like:
 
-Login and authentication testing
-
-Forms and inputs
-
-Alerts, popups, and iFrames
-
-File uploads and downloads
-
-Navigation across pages and tabs
+- Login and authentication testing  
+- Forms and input handling  
+- Alerts, popups, modals, and iFrames  
+- File uploads and downloads  
+- Page navigation and interaction
 
 ---
 
@@ -124,3 +115,4 @@ This project combines everything taught in the series into a complete use case.
 Start from Blog 1 and go step-by-step:
 
 🔗 Read on Blogger →
+https://aigen023.blogspot.com/search/label/selenium
