@@ -77,13 +77,13 @@ pip install -r requirements.txt
 
 We’ll be using the following websites for practice, demo, and tutorials throughout the blog and this repository:
 
-- 🔹 [The Internet (Heroku)](https://the-internet.herokuapp.com/)
-- 🔹 [CosmoCode Playground](https://cosmocode.io/)
-- 🔹 [OrangeHRM Demo Login](https://opensource-demo.orangehrmlive.com/web/index.php/auth/login)
-- 🔹 [FormSite Practice Form](https://fs2.formsite.com/meherpavan/form2/index.html?1537702596407)
-- 🔹 [SauceDemo Login Page](https://www.saucedemo.com/)
-- 🔹 [My Blog - AIgen023](https://aigen023.blogspot.com/)
-- 🔹 [Selenium Official Docs](https://www.selenium.dev/)
+  🔹 [The Internet (Heroku)](https://the-internet.herokuapp.com/)
+  🔹 [CosmoCode Playground](https://cosmocode.io/)
+  🔹 [OrangeHRM Demo Login](https://opensource-demo.orangehrmlive.com/web/index.php/auth/login)
+  🔹 [FormSite Practice Form](https://fs2.formsite.com/meherpavan/form2/index.html?1537702596407)
+  🔹 [SauceDemo Login Page](https://www.saucedemo.com/)
+  🔹 [My Blog - AIgen023](https://aigen023.blogspot.com/)
+  🔹 [Selenium Official Docs](https://www.selenium.dev/)
 
 These platforms help in learning real-time use cases like:
 
